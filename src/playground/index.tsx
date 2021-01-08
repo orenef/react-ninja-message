@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Base } from '../Base';
+import { NinjaMessage } from '../NinjaMessage';
 ReactDOM.render(
-  <Base />,
+  <NinjaMessage color="#32e4ec" message="looking for ninja ?"/>,
   document.getElementById('root'),
 );
