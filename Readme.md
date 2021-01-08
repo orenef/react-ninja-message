@@ -2,13 +2,13 @@
 
 react-ninja-message is a react base component that with zero dependencies, That add animated ninja with your custom message to display.  
 
-codesandbox demo -> [Demo]()
+codesandbox demo -> [Demo](https://okrzh.csb.app/)
 ## Installation
 
-Use the package manager [npm]() to install .
+Use the package manager [npm](https://www.npmjs.com/package/react-ninja-message) to install .
 
 ```bash
-npm install 
+npm i react-ninja-message 
 ```
 
 ## Usage
