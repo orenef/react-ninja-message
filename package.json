@@ -1,9 +1,11 @@
 {
-  "name": "react-typescript-rollup-parcel-template",
+  "name": "react-ninja-message",
   "version": "1.0.0",
-  "description": "Base template",
+  "description": "react-ninja-message is a react base component that with zero dependencies, That add animated ninja with your custom message to display",
   "main": "build/index.js",
   "module": "build/index.es.js",
+  "homepage": "https://github.com/orenef/react-ninja-message",
+  "keywords": ["ninja", "react"],
   "scripts": {
     "start": "parcel --out-dir playground-build ./src/playground/index.html",
     "test": "echo \"Error: no test specified\" && exit 1",
