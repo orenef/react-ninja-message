@@ -81,6 +81,7 @@
     height: 200px;
     position: relative;
     margin: 100px 10px;
+    z-index: 5;
 }
 .react-ninja-message-ninja .n--head {
     width: 140px;

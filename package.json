@@ -1,6 +1,6 @@
 {
   "name": "react-ninja-message",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "react-ninja-message is a react base component that with zero dependencies, That add animated ninja with your custom message to display",
   "main": "build/index.js",
   "module": "build/index.es.js",
