@@ -1,8 +1,10 @@
 # react-ninja-message
 
-react-ninja-message is a react base component that with zero dependencies, That add animated ninja with your custom message to display.  
+![npm](https://img.shields.io/npm/v/react-raining-confetti) ![npm bundle size](https://img.shields.io/bundlephobia/min/react-raining-confetti) ![GitHub top language](https://img.shields.io/github/languages/top/orenef/react-raining-confetti) ![npm](https://img.shields.io/npm/dt/react-raining-confetti) ![NPM](https://img.shields.io/npm/l/react-raining-confetti)
 
-codesandbox demo -> [Demo](https://okrzh.csb.app/)
+react-ninja-message is a react component with zero dependencies, That present animated ninja with your custom message.  
+
+[See demo at codesandbox](https://okrzh.csb.app/)
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/package/react-ninja-message) to install .
@@ -41,4 +43,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[ISC](https://choosealicense.com/licenses/isc/)
